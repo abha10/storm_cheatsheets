@@ -1,0 +1,4 @@
+#Start a topology
+
+#Kill a topology
+/var/local/apache-storm-1.1.0/bin/storm kill <TOPOLOGY NAME> -w 1
